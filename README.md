@@ -1,7 +1,6 @@
 Dataset yang digunakan adalah dataset Heart. Dataset ini terdiri dari 919 data dan 12 kolom. Dataset ini berisi informasi tentang ciri fisik seseorang untuk tujuan diagnosis penyakit jantung.
 Dataset ini saya pilih karena saya pernah mencoba melakukan model prediksi regresi logistik pada data heart.
 
-Proses Pembuatan dan Evaluasi Model Decision Tree:
 Model Decision Tree dibuat dengan menggunakan library Scikit-learn. Proses pembuatan model ini meliputi:
 1. Import data
 2. Preprosesing data: Import library, memisahkan fitur dan target, membagi data menjadi data pelatihan dan data test.
